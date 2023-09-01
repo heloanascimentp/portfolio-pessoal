@@ -9,6 +9,8 @@
 
 # projeto - aprendendo a escrever o README
 
+![image info](img/capa.png)
+
 ## Descrição 
 
 ## introdução 
