@@ -18,13 +18,13 @@
 ## funcionalidade 
 
 ### tecnologia utilizada
-USAMOS  
-.HTML  
-.CSS  
-.IMG  
+USAMOS   
+HTML  
+CSS  
+IMG  
 ## fontes consultadas
 https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89  
 https://www.alura.com.br/artigos/escrever-bom-readme   
 ## autores
-Heloá
+Heloá   
 ![image info](img/eu.jpeg)
