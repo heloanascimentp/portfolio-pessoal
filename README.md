@@ -27,4 +27,5 @@ IMG
 * [Alura] (https://www.alura.com.br/artigos/escrever-bom-readme)   
 ## autores
 Heloá   
-<img src="img/eu.jpeg" width: 20px>
+
+<img src="https://github.com/heloanascimentp/portfolio-pessoal/blob/main/img/eu.jpeg" width="100px">
