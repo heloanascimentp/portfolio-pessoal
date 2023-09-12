@@ -1,5 +1,5 @@
 # indice 
-[projeto - aprendendo a escrever o README](#projeto---aprendendo-a-escrever-o-readme)  
+[Projeto - aprendendo a escrever o README](#projeto---aprendendo-a-escrever-o-readme)  
 [Descrição](#descri%C3%A7%C3%A3o)  
 [introdução](#introdu%C3%A7%C3%A3o)  
 [funcionalidade](#funcionalidade)  
@@ -23,8 +23,8 @@ HTML
 CSS  
 IMG  
 ## fontes consultadas
-https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89  
-https://www.alura.com.br/artigos/escrever-bom-readme   
+* [ExemploDeREADME] (https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
+* [Alura] (https://www.alura.com.br/artigos/escrever-bom-readme)   
 ## autores
 Heloá   
-![image info](img/eu.jpeg)
+<img src="img/eu.jpeg" width: 20px>
