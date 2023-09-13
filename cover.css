@@ -10,7 +10,9 @@
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
 }
-
+h1{
+  text-align: center;
+}
 
 /*
  * Base structure

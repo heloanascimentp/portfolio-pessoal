@@ -9,7 +9,7 @@
 
 # projeto - aprendendo a escrever o README
 
-![image info](img/capa.png)
+![image info](img/gifpagina.gif)
 
 ## Descrição 
 É um projeto de capa que tem o inicio que seria a tela principal, temos as novidades que fala um pouco sobre o aplicativo e suas funcionalidades e fala tambem sobre as proximas atualizações do app e tem o contato se acaso o usuario se interresar pelo conteudo ou estiver tento algum problema.
@@ -26,8 +26,8 @@ HTML
 CSS  
 IMG  
 ## fontes consultadas
-* [Lohhans] (https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - exemplo de README
-* [Alura] (https://www.alura.com.br/artigos/escrever-bom-readme) - C
+* [Lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - exemplo de README
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - C
 ## autores
 Heloá   
 
