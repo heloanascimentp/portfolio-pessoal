@@ -27,7 +27,7 @@ CSS
 IMG  
 ## fontes consultadas
 * [Lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - exemplo de README
-* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - C
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever o README
 ## autores
 Heloá   
 
